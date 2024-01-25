@@ -1,13 +1,13 @@
 alert("Prima di accedere al sito devi creare un Password sicura")
 
 let surName;
-surName = prompt("Qual è il tuo Nome")
+surName = prompt("Qual è il tuo Nome");
 
 let lastName;
-lastName = prompt("Qual è il tuo Cognome")
+lastName = prompt("Qual è il tuo Cognome");
 
 let yourColor;
-yourColor = prompt("Qual è il tuo colore preferito")
+yourColor = prompt("Qual è il tuo colore preferito");
 
 let finalPwd;
 finalPwd = document.getElementById("title").innerHTML = 
