@@ -17,3 +17,13 @@ finalPwd = document.getElementById("title").innerHTML =
         ${surName}${lastName}${yourColor}23
     `   
 ;
+
+let zoolander;
+zoolander = document.getElementById("forfun").innerHTML = 
+    `
+    <img class="img-fluid p-3" src="https://nofilmschool.com/media-library/zoolander-blue-steel-0.jpg?id=34055631&width=1245&height=700&quality=90&coordinates=0%2C1%2C0%2C0" alt="">
+    `   
+;
+
+
+
