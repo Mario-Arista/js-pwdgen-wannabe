@@ -14,7 +14,7 @@ finalPwd = document.getElementById("title").innerHTML =
     `
         Ecco la tua password sicura:
         <br>
-        ${surName}${lastName}${yourColor}23
+        ${surName}${lastName}${yourColor}1251
     `   
 ;
 
